@@ -1,5 +1,6 @@
 # Go 语言规范 - 编码风格篇
 > 当前版本: v1.0.20201106
+>
 > GitHub: [shockerli/go-code-guide](https://github.com/shockerli/go-code-guide)
 
 ## 命名规则
